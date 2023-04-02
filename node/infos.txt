@@ -1,0 +1,19 @@
+
+
+npm i lodash -> instala a dependencia lodash no programa (cria a pasta node_modules)
+
+sudo npm i -g nodemon -> instala a dependencia gobalmente, em todo o sistema
+
+npm init -> criar package.json e iniciar o projeto
+
+npm init -y -> criar package.json e iniciar o projeto (respondendo sim para as perguntas)
+
+npm i --save axios -> instalar dependencia e salvar no package.json
+
+npm i --save-dev axios -> instalar dependencia somente enquanto o projeto estiver no teste  e salvar no package.json
+
+npm i -> instalar as dependencia do package.json
+
+npm start -> iniciar o projeto, desde que star esteja declaro no package.json
+
+npm run nome_script -> executa um script em especifico dentro do package.js
